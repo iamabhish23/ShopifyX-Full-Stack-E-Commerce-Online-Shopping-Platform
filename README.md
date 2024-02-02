@@ -1,4 +1,4 @@
-# ShopifyX: Full-Stack E-Commerce Online Shopping Platform 2
+# ShopifyX: Full-Stack E-Commerce Online Shopping Platform
 
 Welcome to ShopifyX, a powerful e-commerce platform designed to provide a seamless online E-commerce shopping experience.
 
@@ -42,4 +42,15 @@ SMPT_PORT=
 CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
+## 3. Configuration
 
+Navigate to the `config` directory and configure the settings, including database connections and payment gateways.
+
+## 4. Run the Application Locally
+
+Now, you're ready to run the application locally. In the project root directory, run:
+
+```bash
+npm start
+
+This will start the development server. Open your web browser and visit http://localhost:3000 to access ShopifyX.
