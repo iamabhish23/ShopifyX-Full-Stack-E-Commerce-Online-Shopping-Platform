@@ -59,4 +59,3 @@ npm start
 ```
 
 This will start the development server. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access ShopifyX.
-```
