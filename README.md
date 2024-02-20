@@ -19,9 +19,9 @@ cd ShopifyX
 
 #Install Dependencies
 
-**For Backend** - `npm i`
+For Backend - `npm i`
 
-**For Frontend** - `cd frontend` `npm i`
+For Frontend - `cd frontend` `npm i`
 ```
 
 ### 2. Env Variables
